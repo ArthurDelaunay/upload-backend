@@ -1,0 +1,73 @@
+site de gestion pour new world : 
+
+	système de gestion de guilde par gm
+	système de gestion de site par admin
+	
+
+
+
+site de référencement anime
+	système de notation
+	système de classement par catégorie
+	lecteur illégal :s
+
+
+concurrent a racetime !
+
+site de référencement pour speedrun
+	faire des races
+	organiser des races, championnat, compet
+	
+
+db : 
+	games
+	gameCategory
+	runCategory
+	tournament
+	users
+	
+
+US :
+
+un id
+un titre
+une description concise de fonctionnalité
+une priorité
+les tests fonctionnels
+un état
+	
+
+admin : 
+créer guilde
+modifier guilde
+supprimer guilde
+créer produit
+modifier produit
+supprimer annonce de n'importe quel user
+changer le statut GM d'un compte
+désactiver un compte
+réactiver un compte
+suppression de n'importe quel compte user
+valider une demande de suppression de compte
+
+GM :
+accepter une demande pour rejoindre la guilde
+
+
+User avec compte :
+se déconnecter de son compte
+faire une demande de suppression de son compte
+modifier les paramètres de son compte
+gérer ses quantités de produits
+créer des annonces
+modifier ses annonces
+supprimer ses annonces
+voir les profils des autres utilisateurs
+
+
+
+Public User :
+créer un compte
+se connecter à son compte
+
+
